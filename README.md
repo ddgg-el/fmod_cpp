@@ -1,5 +1,7 @@
 ### Test Repository for FMOD C++ integration
 
+the code written in `src/simple_fmod_start.cpp` has been written by @mitchcurtis and can be found [here](https://gist.github.com/mitchcurtis/4a004db5df944d606190d3b0f6022716):
+
 ### Compile
 ```
 $ cd <path/to/folder>
